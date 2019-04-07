@@ -1,0 +1,19 @@
+body {
+  font-family: georgia;
+  background-color: #edf2f1;
+}
+
+.flexy {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexy-div {
+  padding: 10px;
+  margin: 10px;
+  width: 25%;
+  min-height: 0px;
+  background: lightblue;
+  border: black 1px solid;
+  border-radius: 5px;
+}
